@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 rm /tmp/my_first_directory/betty
+=======
+#!/bin/bash
+/tmp/
+>>>>>>> f6a0a76df1cae4feef5f799e2ea567cfe37e60df
